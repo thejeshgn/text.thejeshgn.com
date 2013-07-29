@@ -1,0 +1,63 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Thejesh GN <i@thejeshgn.com>
+Fingerprint: C7D4 1911 9893 ADAF 27B0 FCAA BFFC 8DD3 C06D D6B0
+
+GnuPG Signature Policy
+======================
+The following paragraphs describe the procedure, preconditions 
+and possible results of me signing data or keys.
+
+ Data or Email Signing
+ ============
+
+Only some emails from my UID are signed. But if you really want
+to be sure that the mail/note is from me then it has to be signed by me.
+
+ Key Signing
+ ===========
+
+ For signing keys, I use the same key as for signing data. To ensure the
+ validity of the web of trust, I stick strictly to the following points:
+
+   * In most cases, personal validation is required to obtain a signature from
+     me. Personal validation means that a government issued document containing the
+     full name and a photo must be presented to me at an eye-to-eye meeting.
+   * Fingerprints and UIDs of the key(s) to be signed must be provided in a re-
+     liable and readable way. During personal validation, a printed version of
+     all UIDs and the key fingerprint should be provided.
+   * In rare cases, I also sign keys without personal validation. This is only possible if 
+     I know you for a long time and I am really really sure that the key belongs to you.
+   * In rare cases, names can be signed that cannot be verified with any document.
+     This is the case for well-known nicknames in the FOSS community.
+   * A sig3 is only issued to keys of people whom I ultimately trust on a human
+     basis, this is limited to close friends and people that have proven reliabi-
+     lity and knowledge of the web of trust in other areas (like, but not limited
+     to, CAcert, etc.).
+   * In order to obtain a sig3, basic knowledge of these terms should be shown.
+
+
+This document is a draft and will be extended over time, without rendering the
+current content invalid.
+
+This notes itself was inspired by http://dominik-george.de/gpg-policy.txt.asc
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJQA/bzAAoJEL/8jdPAbdawQJoQAKWrhvD662k2hrLUy+RYnhVL
++V9A/cERYe9WxlLaGgjGmMF1u56RsSG+FBKvStE9T1llTLolzhP0ISk/f6Gl08uq
+mF/u7od2dmTtkV3odgMDzCFQMUrlaMpvJDbN6j6s+oz7Jy6azgxR3MpARMXEwJj/
+ZWkovkgnPsY3AR02UUXo5ZqAr74N6vFjmasCH05dgmUJ4rKLamJx8uTXLLqh1XFz
+YVft8AIlWBcBuSDeWO452Y3v2CoRAHaBeh7Cd2Dtb166YvS96eL4meja43eubNr4
+lwLggzlvIRc+DVrSsvelpnY/e8s4mEISh7UtPgFt5ESIaKZyrqh/KsGsXcJnTVgT
+4TwXLGWgV+Sf9EgDsIxcbvMQFiNrUA8tm/fn+JTUuS1IUnzhyjE528W00s5rqoMs
+utB6VM/d3Hcr/eTiISh0ufemBAPxIi4RhDQ/tlP/r4kcDojm8PzA97zL54yYxmhQ
+0M0EA+nOcgCyboHRBc4qtLsPK1b/t1LPv3D3WJoGaSTbjKqImd8JgdG3eYexe5mf
+msIq65eIY2LIfQzOdPsTvdx1Xi65+MuiFKB86UASg5EY+s9A3o+yNxk3Z6PN/T4+
+oDgr39CbmoFrp8irZPqClybhQkCtNQ8W8sU63qyV6iNMLFlvY/8InH9BuN9xEoFs
+8q2A9ctHjl6Ca95Of7cc
+=BZJK
+-----END PGP SIGNATURE-----
+

@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Copyright (c) 2012, Thejesh GN
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of the Thejesh GN nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBCgAGBQJQVFXbAAoJEL/8jdPAbdawOZYQAKccG0e6En+vRVwZTcMAiW/o
+8nT0r0mZ8C5kc5121jmVmU4Qp4yOl7+WmFDe1uwx5Z3BiV9IQYKwNmEY73aJVoDo
+LIOXR01wugAHpSg72HVsGP66XRg8PmRDoPqrE17lZm+ZGhQ77mh0uzpoSTePsf+V
+Z2ZZNA2W2R9sPzjWvl8SUwwtCOjs79AdBGx7ltlgZF91TUNFhH65u0TjcXz8pb0w
+2gF47eMwh+FhUl0ukUYborlRa/Fgrv1O6JvCQdMSz7LabllsnfkyyRII8r0RG+6A
+MIc2JGjrZ53t78LSOZ4UNYjAkGHcA4yijywkiGpsLX2+mxjgpVjJS7Kgd05WzJ9b
+UdgdeQMy9uF08tNy8QVpYHbpQKi4ebVtHYwyry7M/Q5BBJWqR7xc4cxpoIk38R+u
+VnonDO+hDdUc4WyhntWW3o/ZiUgZhTRKn/H5iKzFtLLtMWpnuUxHHJIUjjUV+0/v
+18QSl49aXG4hu4PucBq80X0GmwiJx+iHEI/mxLm9VFxiWp4d9RGFu97iCGLiIcjY
+6nRDIZvSFsLhGubR2A3TmUXdP6yUcEZSC1QYgsu15bedZGD9HnliHFL8qIvgMn0l
+N8ZzuOZ21+ObBnmEOjHMRwAvjCdo1bSNk2ypCmqtd4moZuo9PPIfznpvOj+vFnGt
+3+KfGNhDaa8y1gmtzkh4
+=De2+
+-----END PGP SIGNATURE-----
