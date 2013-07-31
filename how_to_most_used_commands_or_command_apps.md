@@ -2,7 +2,7 @@
 Glances is a cross-platform curses-based monitoring tool written in Python.
 
 ```
-#instlla
+#install
 $ pip install Glances
 
 #usage
