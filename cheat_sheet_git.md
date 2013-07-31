@@ -1,4 +1,4 @@
-###COmmands
+###Commands
 
 - beautiful logs
 ```
@@ -102,20 +102,25 @@ git stash list
 ### GIT Config alias
 
 - single line beautiful log
+
 ```
 	lg=log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
 ```
 -  will put a file into gitignore
+
 ```
  	ignore=!([ ! -e .gitignore ] && touch .gitignore) | echo $1 >>.gitignore
 ```
 -  list aliases
+
 ```
 	alias = !git config --list | grep 'alias\\.' | sed 's/alias\\.\\([^=]*\\)=\\(.*\\)/\\1\\t=> \\2/' | sort
 ```
 -  take named stash
+
+
 ```
 	snapshot = !git stash save "snapshot: $(date)" && git stash apply "stash@{0}"
 ```
